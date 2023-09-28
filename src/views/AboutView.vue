@@ -1,6 +1,11 @@
 <template>
     <main class="container">
         <h1>About </h1>
-     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus unde ratione rerum sequi atque odit accusamus dolore, voluptas hic at culpa nemo nisi ipsam earum placeat beatae quos numquam sint.</p>
+        <p>
+            Hii my name is Dev Shah, i am studing bachelors in information technology with a major in cyber security.
+            This is my portfolio website showcasing my projects
+
+        </p>
+
     </main>
 </template>

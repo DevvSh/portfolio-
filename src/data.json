@@ -1,66 +1,47 @@
 [
-    {
-      "id": 1,
-      "name": "THE LOT",
-      "body": "beef, crispy rasher bacon, capsicum, pepperoni, Italian sausage, chicken, smoked leg ham",
-      "price": 10,
-      "calories": "6304kj"
-    },
-    {
-      "id": 2,
-      "name": "4 CHEESE",
-      "body": "mozzarella, camembert, feta and parmesan garlic butter sprinkled with oregano",
-      "price": 22,
-      "calories": "5992kj"
-    },
-    {
-      "id": 3,
-      "name": "PERI PERI CHICKEN",
-      "body": "chicken pieces, tomato, sliced red onion & baby spinach",
-      "price": 13,
-      "calories": "4672kj"
-    }, 
-    {
-      "id": 5,
-      "name": "MEGA MEATLOVERS",
-      "body": "chicken, smoked leg ham, seasoned ground beef, pepperoni slices, Italian sausage & crispy rasher bacon",
-      "price": 12,
-      "calories": "5592kj"
-    },
-    {
-      "id": 6,
-      "name": "GARLIC PRAWN",
-      "body": "baby spinach & diced tomato on a crème fraiche & zesty garlic sauce base",
-      "price": 23,
-      "calories": "5592kj"
-    },
-    {
-      "id": 7,
-      "name": "LOADED SUPREME",
-      "body": "rasher bacon, mushroom, pepperoni, Italian sausage, fresh baby spinach, smoked leg ham",
-      "price": 24,
-      "calories": "5440kj"
-    },
-    {
-      "id": 8,
-      "name": "THE LOT PASTA",
-      "body": "pepperoni, beef, Italian Sausage, mushroom, capsicum, olives, cheese, chilli, oregano, garlic butter, seasoned chicken",
-      "price": 13,
-      "calories": "3920kj"
-    },
-    {
-      "id": 9,
-      "name": "MINI PEPPERONI",
-      "body": "Slices of crispy pepperoni & creamy mozzarella, plus a Mini Garlic Bread",
-      "price": 12,
-      "calories": "3946kj"
-    },
-    {
-      "id": 10,
-      "name": "MAC & CHEESE PASTA PACKED PIZZA",
-      "body": "Mac & Cheese pasta on a classic pizza base with extra cheese and garlic butter",
-      "price": 13,
-      "calories": "3946kj"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "projectName": "Personal Website",
+    "description": "Designed and developed my own personal website using HTML, CSS, and Vue.js.",
+    "techStack": ["HTML", "CSS", "Vue.js"],
+    "repositoryUrl": "https://github.com/DevvSh/Html-1.1.git",
+    "demoUrl": "https://yourwebsite.com",
+    "image": "https://blog.logrocket.com/wp-content/uploads/2023/06/selecting-best-vue-3-notification-library.pn"
+  },
+  {
+    "id": 2,
+    "projectName": "Online Portfolio",
+    "description": "Created an online portfolio showcasing my web development projects and skills.",
+    "techStack": ["HTML", "CSS", "Vue.js"],
+    "repositoryUrl": "https://github.com/yourusername/online-portfolio",
+    "demoUrl": "https://yourportfolio.com",
+    "image": "portfolio-2.jpg"
+  },
+  {
+    "id": 3,
+    "projectName": "Blog Website",
+    "description": "Developed a blog website with features like user authentication and dynamic content generation.",
+    "techStack": ["HTML", "CSS", "Vue.js", "Node.js", "MongoDB"],
+    "repositoryUrl": "https://github.com/DevvSh/Html-1.1.git",
+    "demoUrl": "https://yourblog.com",
+    "image": "portfolio-3.jpg"
+  },
+  { 
+    "id": 4,
+    "projectName": "Vue 3 website ",
+    "description": "Built an website with vue 3",
+    "techStack": ["HTML", "CSS", "Vue.js", "Node.js", "MongoDB"],
+    "repositoryUrl": "https://github.com/DevvSh/vue-1.git",
+    "demoUrl": "https://yourecommerce.com",
+    "image": "portfolio-4.jpg"
+  },
+  {
+    "id": 5,
+    "projectName": "Todo App",
+    "description": "Designed a todo app that provides you to add and remove todo tasks.",
+    "techStack": ["HTML", "CSS", "Vue.js"],
+    "repositoryUrl": "https://github.com/DevvSh/todo.git",
+    "demoUrl": "https://yourweatherapp.com",
+    "image": "portfolio-5.jpg"
+  }
+]
